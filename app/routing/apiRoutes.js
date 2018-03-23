@@ -7,6 +7,7 @@ module.exports = function (app) {
     var match = 3;
     console.log(match);
 
+    //tried to make a random choice but it broke the app and i ranout of time
     // for (i=0; i < friends.length; i++) {
     //  match = math.floor(math.random) * friends.length;
     // }

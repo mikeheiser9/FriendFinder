@@ -98,3 +98,5 @@ var friends = [
 ];
   
   module.exports = friends;
+
+  // couldnt get file paths for images to work.. Tried several things but ran out of time.  
